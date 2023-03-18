@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Copyright (c) 2021-Present 18107
+using System;
 using System.Collections.Generic;
 using System.Reflection.Emit;
 using HarmonyLib;

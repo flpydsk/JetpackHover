@@ -1,4 +1,4 @@
-﻿using System;
+﻿//Copyright (c) 2021-Present 18107
 using PulsarModLoader;
 using PulsarModLoader.Keybinds;
 
