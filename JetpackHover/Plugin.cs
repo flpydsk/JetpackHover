@@ -31,7 +31,7 @@ namespace JetpackHover
 		{
 			get
 			{
-				return "Press Left_Ctrl to toggle hover";
+				return "MIT Licence, Hover with keybind";
 			}
 		}
 

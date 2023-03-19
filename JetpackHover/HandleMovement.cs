@@ -41,6 +41,11 @@ namespace JetpackHover
 					}
 					myPawn.ShowJetpackVisuals = false;
 				}
+				if (myPawn.MyCharacterController.isGrounded && HandleMovement.hover)
+				{ 
+					HandleMovement.hover = false;
+                    PLServer.Instance.AddNotification("Hover off", PLNetworkManager.Instance.LocalPlayerID, PLServer.Instance.GetEstimatedServerMs() + 6000, false);
+                }
 			}
 		}
 
