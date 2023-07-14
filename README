@@ -1,1 +1,7 @@
-Jetpack hover for pulsar. Configure ingame with the Jetpack Hover keybind
+Jetpack hover for Pulsar Lost Colony.
+Configure in game with the Jetpack Hover keybind
+Defaults to LCTRL and push to hover, use the /hovermode or /hm to switch to hold to hover
+
+Options:
+  Keybind: Jetpack Hover (LCTRL) - Press keybind to hover with defined mode, push default
+  Command: /hovermode,/hm - Toggle between push to hover and hold to hover
